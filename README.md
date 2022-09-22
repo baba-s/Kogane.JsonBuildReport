@@ -1,4 +1,4 @@
-# UniJsonBuildReport
+# Kogane Json Build Report
 
 BuildReport を JSON 形式で出力できるようにする機能
 
